@@ -1,2 +1,2 @@
-#Matrix
-[![Build Status](https://travis-ci.org/simplydesigner/Matrix.svg?branch=master)](https://travis-ci.org/simplydesigner/Matrix)
+#Calculator
+[![Build Status](https://travis-ci.org/MacMaster256/calculator.svg?branch=master)](https://travis-ci.org/MacMaster256/calculator)
